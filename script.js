@@ -85,12 +85,12 @@ const questions = [
         ]
     },
     {
-      question: 'Who is the best YouTuber?',
+      question: 'What is the capital of Illinois?',
       answers: [
-        { text: 'Web Dev Simplified', correct: true },
-        { text: 'Traversy Media', correct: true },
-        { text: 'Dev Ed', correct: true },
-        { text: 'Fun Fun Function', correct: true }
+        { text: 'Springfield', correct: true },
+        { text: 'Toronto', correct: false },
+        { text: 'Chicago', correct: false },
+        { text: 'Indianapolis', correct: false }
       ]
     },
     {
